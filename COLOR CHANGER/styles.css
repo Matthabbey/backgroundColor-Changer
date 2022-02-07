@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+.nav-center{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f1f8f5;
+    color: cadetblue;
+    font-size: x-large;
+
+}
+.nav-link{
+    list-style: none;
+    display: flex;
+    font-size: large;
+    
+}
+.nav-link li{
+    padding-left: 20px;
+}
+
+.container{
+    margin: 100px;
+    font-size: x-large;
+    padding: 2px;
+    text-align: center;
+    /* background-color: black; */
+    color: #fff;
+    border-radius: 10px;
+}
+.btn{
+    padding: 15px;
+    margin: 20px;
+    cursor: pointer;
+}
